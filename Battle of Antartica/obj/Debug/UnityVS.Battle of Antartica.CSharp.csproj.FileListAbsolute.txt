@@ -1,0 +1,9 @@
+C:\Users\Add\Documents\Battle of Antartica\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Add\Documents\Battle of Antartica\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Add\Documents\Battle of Antartica\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Add\Documents\Battle of Antartica\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Add\Documents\Battle of Antartica\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Add\Documents\Battle of Antartica\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Add\Documents\Battle of Antartica\obj\Debug\UnityVS.Battle of Antartica.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Add\Documents\Battle of Antartica\obj\Debug\Assembly-CSharp.dll
+C:\Users\Add\Documents\Battle of Antartica\obj\Debug\Assembly-CSharp.pdb
